@@ -1,4 +1,4 @@
-public class Jain {
+public class main {
     static void main() {
         
     }
